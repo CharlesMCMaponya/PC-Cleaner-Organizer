@@ -1,5 +1,2 @@
-# Ignore log files
-pc_cleaner.log
-
-# Ignore test folders
-TestFolder/
+test.txt
+PC-CLEANER-ORGANIZER/
