@@ -1,0 +1,5 @@
+# Ignore log files
+pc_cleaner.log
+
+# Ignore test folders
+TestFolder/
